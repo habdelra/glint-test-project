@@ -1,0 +1,1 @@
+export * as ComponentA from "./component-a";

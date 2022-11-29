@@ -1,0 +1,7 @@
+{
+  "name": "glint-test-project",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
