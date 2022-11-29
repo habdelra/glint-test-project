@@ -1,6 +1,6 @@
 {
   "extends": "../tsconfig.shared.json",
   "glint": {
-    "environment": ["ember-template-imports"]
+    "environment": ["ember-template-imports", "ember-loose"]
   }
 }
