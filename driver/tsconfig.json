@@ -1,5 +1,10 @@
 {
   "extends": "../tsconfig.shared.json",
+  "compilerOptions": {
+    "paths": {
+      "lib/*": ["../lib/src/*"]
+    },
+  },
   "glint": {
     "environment": ["ember-template-imports", "ember-loose"]
   }
