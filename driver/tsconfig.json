@@ -7,5 +7,8 @@
   },
   "glint": {
     "environment": ["ember-template-imports", "ember-loose"]
-  }
+  },
+  "include": [
+    "../lib/**/*"
+  ]
 }
